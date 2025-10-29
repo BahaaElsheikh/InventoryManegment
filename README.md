@@ -37,7 +37,7 @@ ID,Name,Quantity,Price
 0,Keyboard,10,250
 1,Mouse,15,100
 2,Monitor,5,1200
-
+```
 
 🛠️ Tech Stack
 
