@@ -39,7 +39,8 @@ ID,Name,Quantity,Price
 2,Monitor,5,1200
 ```
 
-##🛠️ Tech Stack
+----
+## 🛠️ Tech Stack
 
 Language: C# (.NET 9.0)
 
@@ -50,7 +51,7 @@ Type: Console Application
 Paradigm: Object-Oriented Programming (OOP)
 
 
-##🖥️ How to Run
+## 🖥️ How to Run
 
 Clone the repository:
 
@@ -63,8 +64,9 @@ Build and Run the app (Press Ctrl + F5 or click Run)
 
 Start managing your inventory! 🚀
 
+-----
 
-##🎨 Console Preview (Example)
+## 🎨 Console Preview (Example)
 ```
 ========== Welcome To Products Manager =========
 
@@ -77,9 +79,9 @@ Start managing your inventory! 🚀
 ==============================
 Enter a Number from 1-5 :
 ```
+----
 
-
-##✅ Messages appear in color-coded style:
+## ✅ Messages appear in color-coded style:
 
 🟢 Green → Success messages
 
@@ -87,7 +89,7 @@ Enter a Number from 1-5 :
 
 🟡 Yellow / Cyan → Info & prompts
 
-##💡 Future Improvements
+## 💡 Future Improvements
 
 Add CSV auto-loading on startup
 
@@ -97,10 +99,10 @@ Export data to JSON or XML
 
 Add sorting and filtering features
 
-##👨‍💻 Author
+## 👨‍💻 Author
 Bahaa Elsheikh
-💼 GitHub: BahaaElsheikh
 
+💼 GitHub: BahaaElsheikh
 📧 Email: bahaa2209@gmail.com
 
 
